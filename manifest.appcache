@@ -1,0 +1,12 @@
+CACHE MANIFEST
+js/BaseException.js
+js/videoSystem.js
+js/VideoSystemObjects.js
+js/DOM.js
+js/Formularios.js
+imagenes/
+
+NETWORK:
+*
+
+index.html

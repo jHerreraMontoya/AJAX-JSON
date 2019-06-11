@@ -1,0 +1,104 @@
+{
+  "StoreCategories": [
+    {"name": "Accion & Aventura", "description": ""},
+		{"name": "Animacion", "description": ""},
+		{"name": "Ciencia Ficcion", "description": ""},
+		{"name": "Comedia", "description": ""},
+    {"name": "Drama", "description": ""},
+    {"name": "Intriga", "description": ""},
+    {"name": "Musical", "description": ""},
+    {"name": "Romance", "description": ""},
+    {"name": "Terror", "description": ""}
+  ],
+
+
+  "StoreActors":[
+    {"name": "Benedict", "lastname1": "Cumberbatch", "born": "Mon Jul 19 1976 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/benedict-cumberbatch.jpg"},
+    {"name": "Chris", "lastname1": "Evans", "born": "Sat Jun 13 1981 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/chris-evans.jpg"},
+    {"name": "Martin", "lastname1": "Freeman", "born": "Wed Sep 08 1971 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/martin-freeman.jpg"},
+    {"name": "Rupert","lastname1": "Grint", "born": "Wed Aug 24 1988 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/rupert-grint.jpg"},
+    {"name": "Scarlett", "lastname1": "Johansson", "born": "Thu Nov 22 1984 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/scarlett-johansson.jpg"},
+    {"name": "Zoe", "lastname1": "Kazan", "born": "Fri Sep 09 1983 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/zoe-kazan.jpg"},
+    {"name": "Clara","lastname1": "Lago", "born": "Tue Mar 06 1990 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/clara-lago.jpg"},
+    {"name": "Maria", "lastname1": "León", "born": "Mon Jul 30 1984 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/maria-león.jpg"},
+    {"name": "Natasha", "lastname1": "Lyone","born": "Wed Apr 04 1979 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/natasha-lyonne.jpg"},
+    {"name": "Jon", "lastname1": "Plazaola", "born": "Sun Mar 28 1982 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/jon-plazaola.jpg"},
+    {"name": "Chris", "lastname1": "Pratt", "born": "Thu Jun 21 1979 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/chris-pratt.jpg"},
+    {"name": "Daniel", "lastname1": "Radcliffe", "born": "Sun Jul 23 1989 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/daniel-radcliffe.jpg"},
+    {"name": "Berto", "lastname1": "Romero", "born": "Sun Nov 17 1974 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/berto-romero.jpg"},
+    {"name": "Daniel", "lastname1": "Rovira", "born": "Sat Nov 01 1980 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture": "imagenes/actores/daniel-rovira.jpg"},
+    {"name": "Zoe", "lastname1": "Saldaña", "born": "Mon Jun 19 1978 00:00:00 GMT+0200 (hora de verano de Europa central)", "picture": "imagenes/actores/zoe-saldaña.jpg"},
+  ],
+
+
+
+  "StoreDirectors":[
+    {"name": "Juan Antonio", "lastname1": "Bayona", "born":"Tue Jul 23 1968 00:00:00 GMT+0100 (hora de verano de Europa central)", "picture":"imagenes/directores/juan-antonio-bayona.jpg"},
+    {"name": "Michael", "lastname1": "Dowse",  "born":"Thu Apr 19 1973 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture":"imagenes/directores/michael-dowse.jpg"},
+    {"name": "James", "lastname1": "Gunn",  "born":"Fri Aug 05 1966 00:00:00 GMT+0100 (hora de verano de Europa central)", "picture":"imagenes/directores/james-gunn.jpg"},
+    {"name": "Emilio", "lastname1": "Lazaro", "born":"Wed Mar 28 1945 00:00:00 GMT+0100 (hora de verano de Europa central)", "picture":"imagenes/directores/emilio-lazaro.jpg"},
+    {"name": "Shawn", "lastname1": "Levy",  "born":"Tue Jul 23 1968 00:00:00 GMT+0100 (hora de verano de Europa central)", "picture":"imagenes/directores/shawn-levy.jpg"},
+    {"name": "Joe", "lastname1": "Russo",  "born":"Thu Jul 08 1971 00:00:00 GMT+0100 (hora estándar de Europa central)", "picture":"imagenes/directores/joe-russo.jpg"}
+  ],
+
+  "StoreProductions":[
+    {"title": "8 Apellidos Catalanes", "publication": "Wed Nov 18 2015 00:00:00 GMT+0100 (hora estándar de Europa central)", "image": "imagenes/peliculas_series/apellidos-catalanes.jpg", "type": "Movie"},
+    {"title": "8 Apellidos Vascos", "publication": "Fri Mar 14 2014 00:00:00 GMT+0100 (hora estándar de Europa central)", "image": "imagenes/peliculas_series/apellidos-vascos.jpg", "type": "Movie"},
+    {"title": "Allí Abajo", "publication": "Tue Apr 07 2015 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/alli-abajo.jpg", "type": "Serie"},
+    {"title": "Amigos de más", "publication": "Fri May 02 2014 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/amigos-de-mas.jpg","type": "Movie"},
+    {"title": "Amor Ocasional", "publication": "Fri Dec 07 2018 00:00:00 GMT+0100 (hora estándar de Europa central)", "image": "imagenes/peliculas_series/amor-ocasional.jpg", "type": "Serie"},
+    {"title": "Diario de una niñera", "publication": "Fri Aug 24 2007 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/diario-de-una-niñera.jpg", "type": "Movie"},
+    {"title": "Dr Strange", "publication": "Fri Oct 28 2016 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/dr-strange.jpg", "type": "Movie"},
+    {"title": "Guardianes de la galaxia VOL 1", "publication": "Thu Aug 14 2014 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/guardianes-de-la-galaxia.jpg", "type": "Movie"},
+    {"title": "Harry Potter y la Orden del Fénix", "publication": "Wed Jun 28 2017 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/harry-potter-y-la-orden-del-fenix.jpg", "type": "Movie"},
+    {"title": "Los Vengadores", "publication": "Wed Apr 29 2015 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/vengadores.jpg", "type": "Movie"},
+    {"title": "Muñeca Rusa", "publication": "Sun Feb 10 2019 00:00:00 GMT+0100 (hora estándar de Europa central)", "image": "imagenes/peliculas_series/muñeca-rusa.jpg", "type": "Serie"},
+    {"title": "Sherlock Holmes", "publication": "Sun Jul 25 2010 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/sherlock.jpg", "type": "Serie"},
+    {"title": "Stranger Things", "publication": "Fri Jul 15 2016 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/stranger-things.jpg", "type": "Serie"},
+    {"title": "The Big Bang Theory", "publication": "Mon Sep 24 2007 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/the-big-bang-theory.jpg", "type": "Serie"},
+    {"title": "The Good Doctor", "publication": "Mon Sep 25 2017 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/the-good-doctor.jpg", "type": "Serie"},
+    {"title": "Diario de una niñera", "publication": "Fri Aug 24 2007 00:00:00 GMT+0200 (hora de verano de Europa central)", "image": "imagenes/peliculas_series/diario-de-una-niñera.jpg", "type": "Movie"}
+  ],
+
+
+  "StoreAssignCategory":[
+    {"category": "Acción & Aventura", "Productions": ["Dr Strange", "Harry Potter y la Orden del Fénix", "Los Vengadores", "Guardianes de la galaxia VOL 1"]},
+		{"category": "Animación", "Productions":["The Big Bang Theory"]},
+		{"category": "Ciencia Ficción", "Productions": ["Stranger Things"]},
+		{"category": "Comedia", "Productions": ["8 Apellidos Vascos", "8 Apellidos Catalanes", "Allí Abajo"]},
+    {"category": "Drama", "Productions": ["Diario de una niñera", "The Good Doctor"]},
+    {"category": "Intriga", "Productions":  ["Sherlock Holmes"]},
+    {"category": "Musical", "Productions": ["Amigos de más"]},
+    {"category": "Romance", "Productions": ["Amigos de más", "Amor Ocasional"]},
+    {"category": "Terror", "Productions":  ["Muñeca Rusa"]}
+  ],
+
+  "StoreAssignDirectors":[
+    {"director": "Bayona", "Productions": []},
+		{"director": "Dowse", "Productions": ["Amigos de más", "The Big Bang Theory", "Amor Ocasional", "Stranger Things"]},
+		{"director": "Gunn", "Productions": ["Dr Strange", "Harry Potter y la Orden del Fénix", "Los Vengadores", "Guardianes de la galaxia VOL 1"]},
+		{"director": "Lazaro", "Productions": ["8 Apellidos Vascos", "8 Apellidos Catalanes", "Allí Abajo"]},
+    {"director": "Levy", "Productions": ["Diario de una niñera", "Muñeca Rusa"]},
+    {"director": "Russo", "Productions":  ["Sherlock Holmes", "The Good Doctor"]}
+  ],
+
+  "StoreAssignActors":[
+    {"actor": "Cumberbatch", "Productions": ["Sherlock Holmes", "Dr Strange", "Muñeca Rusa"] },
+    {"actor": "Evans", "Productions": ["Diario de una niñera", "Los Vengadores", "Amor Ocasional"] },
+    {"actor": "Freeman", "Productions": ["Sherlock Holmes"] },
+    {"actor": "Grint", "Productions": ["Harry Potter y la Orden del Fénix", "The Good Doctor"] },
+    {"actor": "Johansson", "Productions": ["Diario de una niñera", "The Big Bang Theory"] },
+    {"actor": "Kazan", "Productions": ["Amigos de más"] },
+    {"actor": "Lago", "Productions": ["8 Apellidos Vascos"] },
+    {"actor": "León", "Productions": ["Allí Abajo"] },
+    {"actor": "Lyone", "Productions": ["Muñeca Rusa"] },
+    {"actor": "Plazaola", "Productions": ["Allí Abajo", "The Big Bang Theory", "Amor Ocasional"] },
+    {"actor": "Pratt", "Productions": ["Los Vengadores", "Guardianes de la galaxia VOL 1"] },
+    {"actor": "Radcliffe", "Productions": ["Amigos de más", "Harry Potter y la Orden del Fénix"] },
+    {"actor": "Romero", "Productions": ["8 Apellidos Catalanes", "Stranger Things"] },
+    {"actor": "Rovira", "Productions":  ["8 Apellidos Vascos", "8 Apellidos Catalanes", "Stranger Things"] },
+    {"actor": "Saldaña", "Productions":  ["Guardianes de la galaxia VOL 1", "The Good Doctor"] }
+  ]
+
+
+}
