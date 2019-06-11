@@ -21,7 +21,7 @@ _• v1.0.0 - Se añade los ficheros correspondiente a la realización de la pr�
       •manifest.appcache, fichero para la cache
       •Cronometro que contiene Cronometro.html y js/Cronometro.js
       •js/AJAX.js
-      •js/JSON/fichero.php
+      •js/JSON/Server.php
       •js/JSON/VideoSystem.json
 ```
 
@@ -29,5 +29,6 @@ _• v1.0.0 - Creación de Fichero .json_
 ```
 Crear fichero .json mediante código php, pasando los objetos del VideoSystem de la base de datos
 a un fichero VideoSystem.json y posteriormente crearemos un fichero AJAX.js mediante el cual 
-accederemos a los objetos del fichero VideoSystem.json y genereremos el fichero prueba.json
+accederemos a los objetos del fichero VideoSystem.json y genereremos el fichero prueba.json mediante
+el fichero Server.php
 ```
